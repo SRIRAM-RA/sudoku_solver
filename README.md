@@ -25,3 +25,7 @@ The repository consists of two files
 
 2. solve():
 	This function is going to call all the funcationalities where we backtrack the process if the number is not valid.
+	
+3. print_board():
+	This function simply prints the sukodu format and checks whether this is valid or not
+
