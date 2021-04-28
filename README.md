@@ -20,8 +20,8 @@ The algorithm to solve sudoku is simple.
 The repository consists of two files
 ## FUNCTIONALTY
 
-Valid():
+1. Valid():
 	This function makes sures to check the number we enter is valid or not by comparing it to every element in a row and column. If the number we entered is already present then we return false
 
-solve():
+2. solve():
 	This function is going to call all the funcationalities where we backtrack the process if the number is not valid.
