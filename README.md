@@ -43,3 +43,10 @@ The above snap denotes the format of the sudoku board.
 
 This above snap shows the finished model of the sudoku board with random values that matches the constraints of the sudoku game.
 
+## Results with GUI
+
+The below picture gives the final output of our sudoku model where the user can input the values and finish the game. It also says whether the inputed value is correct or not. If the value entered is correct then it returns "Sucess" if not it returns "Wrong" in the shell.
+
+![gui](https://user-images.githubusercontent.com/55801381/116356077-66a98800-a818-11eb-8b97-c92de0bf216b.PNG)
+
+### Happy  playing..!!
