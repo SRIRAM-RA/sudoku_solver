@@ -21,11 +21,11 @@ The repository consists of two files
 ## FUNCTIONALTY
 
 1. Valid():
-	This function makes sures to check the number we enter is valid or not by comparing it to every element in a row and column. If the number we entered is already present then we return false
+	This function makes sures to check the number we enter is valid or not by comparing it to every element in a row and column. If the number we entered is already present then we return false.
 
 2. solve():
 	This function is going to call all the funcationalities where we backtrack the process if the number is not valid.
 	
 3. print_board():
-	This function simply prints the sukodu format and checks whether this is valid or not
+	This function simply prints the sukodu format and checks whether this is valid or not.
 
