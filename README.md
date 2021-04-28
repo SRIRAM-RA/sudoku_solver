@@ -1,4 +1,4 @@
-# sudoku_solver
+# sudoku_validator
 
 ## Languages used:- Python 3.8.5.
 ## Tools used: IDLE python
