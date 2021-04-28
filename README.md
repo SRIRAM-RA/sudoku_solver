@@ -32,4 +32,10 @@ The repository consists of two files
 	
 3. print_board():
 	This function simply prints the sukodu format and checks whether this is valid or not.
+	
+## Results without gui 
+
+![sudokuboard](https://user-images.githubusercontent.com/55801381/116355638-bf2c5580-a817-11eb-9b01-9b768acdc2e9.PNG)
+
+The above snap denotes the format of the sudoku board.
 
