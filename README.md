@@ -1,5 +1,3 @@
-[sample.txt](https://github.com/SRIRAM-RA/sudoku_solver/files/6389481/sample.txt)
-![finished sudoku solu](https://user-images.githubusercontent.com/55801381/116355773-f569d500-a817-11eb-8e7b-ca045865054d.PNG)
 # sudoku_validator
 
 ## Languages used:- Python 3.8.5.
@@ -40,4 +38,8 @@ The repository consists of two files
 ![sudokuboard](https://user-images.githubusercontent.com/55801381/116355638-bf2c5580-a817-11eb-9b01-9b768acdc2e9.PNG)
 
 The above snap denotes the format of the sudoku board.
+
+![finished sudoku solu](https://user-images.githubusercontent.com/55801381/116355773-f569d500-a817-11eb-8e7b-ca045865054d.PNG)
+
+This above snap shows the finished model of the sudoku board with random values that matches the constraints of the sudoku game.
 
