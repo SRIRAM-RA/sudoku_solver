@@ -13,11 +13,14 @@ The algorithm to solve sudoku is simple.
 4. The fourth step is to make sure that the number is we entered is not repeated.
 5. The fifth step is, if the number we entered is repeated either in a row,or a column,or the matrix where the cell is present, if the number is present then we backtrack. 
 
-The repository consists of two files
+
 ## Files Info
+The repository consists of two files
 1. GUI.py
 2. solver.py
 
+## Required modules
+1. "pygame" this module is used to make the sudoku gui.  
 
 ## FUNCTIONALTY
 
