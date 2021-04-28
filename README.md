@@ -1,3 +1,5 @@
+[sample.txt](https://github.com/SRIRAM-RA/sudoku_solver/files/6389481/sample.txt)
+![finished sudoku solu](https://user-images.githubusercontent.com/55801381/116355773-f569d500-a817-11eb-8e7b-ca045865054d.PNG)
 # sudoku_validator
 
 ## Languages used:- Python 3.8.5.
